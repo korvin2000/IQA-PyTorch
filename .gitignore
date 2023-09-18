@@ -14,7 +14,7 @@ tmp*
 .idea
 
 # ignored files
-version.py
+# version.py
 
 # ignored files with suffix
 # *.html
